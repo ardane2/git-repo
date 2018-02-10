@@ -39,8 +39,8 @@ for ($j = $low_limit; $j <= $up_limit; $j++)
  
 sort($mas_res);
 echo "<br>Найденное минимальное число по заданному условию: ".$mas_res[0];
-/*echo "<pre>";
+echo "<pre>";
 print_r($mas_res);
 echo "</pre>";
-*/
+
 ?>
